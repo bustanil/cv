@@ -1,159 +1,102 @@
 ---
-title: Thandiwe Mukelabai
-headline: Graphics & Systems Engineer
-description: Thandiwe is a graphics and systems engineer specializing in real-time 3D rendering, game engine development, and high-performance computing.
-email: thandiwe@example.co.zm
-phone: +260 97X XXX XXX
-website: https://thandiwe.dev
-github: '@thandiwemk'
-linked_in: https://www.linkedin.com/in/thandiwe-mukelabai
-mastodon: '@thandiwemk'
-x: '@thandiwemk'
-stackoverflow: https://stackoverflow.com/users/123456/thandiwemk
+title: Bustanil Arifin
+headline: Software Engineer
+description: // TODO
+email: bustanil@protonmail.com
+phone: +6282113205779
+github: '@bustanil'
+linked_in: https://www.linkedin.com/in/bustanil-arifin
 ---
 
 ## Professional Summary [ph-user]
 
-Graphics and Systems Engineer with 6+ years of experience in real-time 3D rendering, game engine development, and high-performance computing. Specialized in optimizing rendering pipelines and implementing modern graphics algorithms. Strong background in C++, OpenGL, and Vulkan development. Passionate about advancing computer graphics in Africa and mentoring emerging developers.
+Seasoned software engineer with 15+ years of experience in designing, developing, and maintaining mission-critical applications. Experienced in Java, Go, and modern JavaScript frameworks with a track record of leading engineering projects at major companies. 
 
-## Technical Skills [ph-wrench]
-
-- Graphics Programming
-  - OpenGL
-  - Vulkan
-  - DirectX
-  - GLSL/HLSL
-  - Metal
-  - WebGL
-  - Three.js
-- Systems Programming
-  - C++
-  - Rust
-  - CUDA
-  - OpenCL
-  - Multithreading
-  - SIMD
-- Game Engine Development
-  - Unity
-  - Unreal Engine
-  - Custom Engine Development
-  - Physics Systems
-  - Scene Graph Optimization
-- Tools & Technologies
-  - CMake
-  - Git
-  - Visual Studio
-  - Linux/Unix
-  - Performance Profiling
-  - Debugging Tools
-- Mathematics
-  - Linear Algebra
-  - Computer Graphics Theory
-  - Numerical Methods
-  - Quaternions
-  - Computational Geometry
-
-## Professional Experience [ph-briefcase]
-
-### Senior Graphics Engineer [May 2022 – Present] | [Liquid Thought Interactive](https://liquidthought.co.za)
-
-- Lead development of custom rendering engine for architectural visualization
-- Implemented real-time ray tracing pipeline reducing render times by 65%
-- Optimized shader compilation pipeline improving load times by 40%
-- Mentored junior graphics programmers and conducted technical workshops
-- Developed custom tools for content creation pipeline
-
-### Graphics Engineer [Aug 2020 – Apr 2022] | [Prism Studios](https://prismstudios.example.com)
-
-- Developed rendering features for cross-platform game engine
-- Implemented PBR materials system and advanced post-processing effects
-- Created tools for automated performance optimization
-- Contributed to open-source graphics libraries
-- Optimized rendering for mobile platforms
-
-### Junior Graphics Programmer [Jan 2018 – Jul 2020] | [Digital Frontiers](https://digitalfrontiers.example.com)
-
-- Implemented real-time visual effects using OpenGL and GLSL
-- Developed shading and material systems
-- Created technical documentation and optimization guides
-- Contributed to core rendering pipeline
-- Assisted in platform-specific optimizations
-
-## Featured Projects [ph-gear]
-
-### Custom Game Engine
-
-- Developed lightweight game engine focused on 2D/3D hybrid rendering
-- Implemented modern rendering techniques including PBR and dynamic GI
-- Created comprehensive documentation and examples
-- Technologies: C++, Vulkan, CMake
-- Repository: [thandiwem/nova-engine](https://github.com/thandiwem/nova-engine)
-
-### WebGL Terrain Generator
-
-- Built real-time procedural terrain generation system
-- Implemented advanced LOD system for large-scale landscapes
-- Optimized for both desktop and mobile browsers
-- Technologies: WebGL, JavaScript, Web Workers
-- Demo: [terrain.thandiwe.dev](https://terrain.thandiwe.dev)
-
-### Real-time Global Illumination
-
-- Researched and implemented real-time GI solutions
-- Developed hybrid ray tracing/voxel cone tracing approach
-- Published technical breakdown and performance analysis
-- Technologies: C++, DirectX 12, CUDA
-- Repository: [thandiwem/realtime-gi](https://github.com/thandiwem/realtime-gi)
-
-## Conference Talks [ph-microphone]
-
-### [Advancing Graphics Technology in Africa](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators) [Keynote] | Africa Game Developers Conference 2023
-
-- Discussed state of graphics technology in African game development
-- Presented case studies of successful African studios
-- Shared strategies for building graphics expertise in emerging markets
-- Reached audience of 500+ developers
-
-### Real-time Ray Tracing for Architectural Visualization [ ] | [SIGGRAPH 2022](https://s2022.siggraph.org/)
-
-- Presented novel approach to architectural visualization
-- Demonstrated practical implementation strategies
-- Shared performance optimization techniques
-- Discussed integration with existing workflows
-
-## Technical Writing [ph-pencil]
-
-### Graphics Programming Guide Series [2023] | Graphics Programming Weekly
-
-- Authored comprehensive series on modern graphics programming
-- Covered Vulkan, DirectX 12, and modern GPU architectures
-- Created practical tutorials and example projects
-- Generated significant community engagement
-
-### Optimizing Graphics for Mobile Devices [Sep 2022] | Mobile Dev Magazine
-
-- Published detailed guide on mobile graphics optimization
-- Covered performance profiling and optimization strategies
-- Included real-world case studies and benchmarks
+Specializes in distributed systems, microservices architecture, and software development. Demonstrated ability to mentor teams and deliver scalable solutions that drive business value. AWS certified with deep technical understanding of cloud infrastructure and deployment strategies.
 
 ## Education [ph-graduation-cap]
 
-| Qualification         | Major                         | Institution                   | Year |
-| --------------------- | ----------------------------- | ----------------------------- | ---- |
-| Master of Science     | Computer Science (Graphics)   | University of Cape Town       | 2018 |
-| Bachelor of Science   | Computer Science              | University of Zambia          | 2016 |
+| Qualification         | Major                         | Institution                  | 
+| --------------------- | ----------------------------- | ---------------------------- | 
+| Bachelor              | Information Systems           | Binus University             |
+| Diploma III           | Informatics Engineering       | State Polytechnic of Bandung |
 
 ## Certifications [ph-certificate]
 
-| Certification                    | Provider             | Year |
-| -------------------------------- | -------------------- | ---- |
-| Vulkan Developer Certification   | Khronos Group        | 2023 |
-| Unity Certified Programmer       | Unity Technologies   | 2022 |
-| CUDA Programming Certification   | NVIDIA               | 2021 |
+| Certification                                      | Provider | Year |
+| -------------------------------------------------- | -------- | ---- |
+| AWS Solution Architect Associate                   | AWS      | 2023 |
+| Oracle Certified Java Programmer (OCJP) for Java 8 | Oracle   | 2019 |
 
-## Professional Memberships [ph-users-three]
+## Technical Skills [ph-wrench]
 
-- ACM SIGGRAPH, 2018-present
-- Women in Games (WIGJ), 2019-present
-- IEEE Computer Society, 2016-present
-- Game Developers Association of Zambia, 2020-present
+  Java, Javascript, Go, PHP, Scala, Spring/Spring Boot, Hibernate, HTML, CSS, React, NextJS, Git, Maven, Linux, Docker, AWS, Kafka, Redis, Microservices, Distributed systems, Agile Methodology, Scrum
+
+## Professional Experience [ph-briefcase]
+
+### Senior Fullstack Software Engineer [2022 – Present] | [Grab](https://grab.com)
+
+- Led some project initiatives as the engineering owner, working on both backend and frontend side
+- Worked on projects related to reviews domain.
+
+*Tech stack: Go, gRPC, Javascript, Next.js, React.js, AWS, MySQL, Kafka, Redis, Microservices, REST API*
+
+### Senior Software Engineer [2021 – 2022] | [DKatalis (Bank Jago)](https://www.dkatalis.com)
+
+- Led the Joint Finance System team in designing, developing and delivering features and bug fixes.
+
+*Tech stack: Java, Spring Boot, JPA/Hibernate, Kafka, MySQL, Docker, Redis*
+
+### Senior Software Engineer [2018 - 2021] | [Hitachi Energy](https://www.hitachienergy.com)
+
+- Worked in the backend team to develop API for various business domains.
+- Worked in the frontend team to develop the frontend of the DE Business Rules Editor application using
+React and Redux.
+- Developed and maintained the Ellipse Core Java Infrastructure.
+- Developed and maintained the Test Automation Framework that is used by the QA engineers.
+
+*Tech stack: Java, Spring, Hibernate, Vaadin, Oracle, AWS, Selenium*
+
+### Self Employed [2017 - 2018]
+
+- Hired and led a Java development team to build a Loan Approval System for one of the state-owned banks in
+Indonesia
+- Hired and led a Java development team to build and deliver the AFE (Authorization of Expenditure) System
+for SKK Migas Indonesia
+
+*Tech stack: Java, Spring, JPA/Hibernate, Apache Camel, JSF, MySQL*
+
+### Research and Development Manager [2014 - 2017] | [Collega Inti Pratama](www.collega.co.id) 
+
+- Designed and developed a Batch Processing Application on top of Spring Batch achieving 600% performance improvement.
+- Upgraded the Core Banking System tech stack from EJB 3.0 and JBoss stack to Spring stack to make it easier to maintain and extend.
+- Designed and ported the Core Banking Frontend Application from a desktop app to a web app using Spring and ZKoss.
+- Mentored and coached Java developers on how to write clean code, refactor code, and write effective Java. 
+- Introduced the use of version control, build tools and development workflow
+
+*Tech stack: Java, Spring, Zkoss, SWT/Jface, IBM DB2*
+
+### Self Employed [2017 - 2018]
+
+Ran a small business specializing in Java training. I taught Java to help several IT companies onboard new
+programmers covering topics such as Basic Java, Effective Java, JSF, JPA/Hibernate.
+
+### Senior Java Developer [2012 - 2013] | [Telkomsigma](www.telkomsigma.co.id)
+
+Led a team of Java developers to develop and deliver a new financial product to three customers within a year.
+
+*Tech stack: Java, Spring, Spring MVC, Microsoft SQL Server*
+
+### Senior Java Developer [2008 - 2012] | [Esphere](https://www.esphere.id)
+
+- Worked on a project to develop a fully functional e-wallet application
+- Worked on a project to develop a billing application.
+
+*Tech stack: Java, Spring, JPA/Hibernate, Flex, Struts 2, PostgreSQL*
+
+### Java Developer [2006 - 2008] | [Collega Inti Pratama](www.collega.co.id) 
+
+- Joined the R&D team to develop a new Core Banking System
+- Developed a small UI framework to enable other teams to rapidly develop CRUD applications.
+
+*Tech stack: Java, EJB 3.0, JPA/Hibernate, SWT/JFace, IBM DB2*
