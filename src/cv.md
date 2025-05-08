@@ -34,10 +34,10 @@ Specializes in distributed systems, microservices architecture, and software dev
 
 ## Professional Experience [ph-briefcase]
 
-### Senior Fullstack Software Engineer [2022 – Present] | [Grab](https://grab.com)
+### Senior Software Engineer [2022 – Present] | [Grab](https://grab.com)
 
-- Led some project initiatives as the engineering owner, working on both backend and frontend side
-- Worked on projects related to reviews domain.
+- Led some product initiatives as the engineering owner, working on both backend and frontend side
+- Worked on projects related to merchant reviews.
 
 *Tech stack: Go, gRPC, Javascript, Next.js, React.js, AWS, MySQL, Kafka, Redis, Microservices, REST API*
 
@@ -76,7 +76,7 @@ for SKK Migas Indonesia
 
 *Tech stack: Java, Spring, Zkoss, SWT/Jface, IBM DB2*
 
-### Self Employed [2017 - 2018]
+### Self Employed [2013 - 2014]
 
 Ran a small business specializing in Java training. I taught Java to help several IT companies onboard new
 programmers covering topics such as Basic Java, Effective Java, JSF, JPA/Hibernate.
