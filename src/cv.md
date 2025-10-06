@@ -35,13 +35,6 @@ Specializes in distributed systems, microservices architecture, and software dev
 
 ## Professional Experience [ph-briefcase]
 
-### Senior Software Engineer (Freelance) [2020 - Present] | [Esphere](https://esphere.id)
-
-- Worked on various payment related projects
-- Develop and maintain Skrill payment plugins for major e-commerce platforms such as Shopify, Shopware and Magento.
-
-*Tech stack: PHP, Javascript, Node.js, React, PostgreSQL*
-
 ### Senior Software Engineer [2022 – Present] | [Grab](https://grab.com)
 
 Grab is Southeast Asia's leading superapp. It provides everyday services like Deliveries, Mobility, Financial Services, and More.
@@ -53,7 +46,7 @@ Grab is Southeast Asia's leading superapp. It provides everyday services like De
 - Developed new features in the merchant review module.
 - Worked on various AWS infrastructure related projects.
 
-*Tech stack: Go, gRPC, Javascript, Next.js, React, DynamoDB , MySQL, Kafka, Redis, Microservices, REST API, Docker, Kubernetes, Hystrix, Elasticsearch, Kibana, Datadog*
+*Tech stack: Go, gRPC, Javascript, Next.js, React, DynamoDB , MySQL, Kafka, Redis, Microservices, REST API, Docker, Kubernetes, Hystrix, Elasticsearch, Kibana, Datadog, AWS*
 
 ### Senior Software Engineer [2021 – 2022] | [DKatalis (Bank Jago)](https://www.dkatalis.com)
 
