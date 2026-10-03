@@ -47,8 +47,13 @@ export function processSkillsSection(doc) {
  */
 function processSkillCategories(skillsList) {
   skillsList.querySelectorAll(':scope > li').forEach((li) => {
-    li.classList.add('skill-category')
     const nestedList = li.querySelector('ul')
+    if (!nestedList && li.querySelector('strong')) {
+      li.classList.add('skill-summary')
+      return
+    }
+
+    li.classList.add('skill-category')
     const categoryText = li.childNodes[0].textContent.trim()
 
     const categoryDiv = createCategoryDiv(categoryText)

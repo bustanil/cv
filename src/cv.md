@@ -1,7 +1,7 @@
 ---
 title: Bustanil Arifin
-headline: Software Engineer
-description: // TODO
+headline: Senior Software Engineer | Backend & Payments
+description: Senior software engineer focused on Java and Go backend development, payment orchestration, and banking systems.
 email: bustanil@protonmail.com
 phone: +6282113205779
 github: '@bustanil'
@@ -10,107 +10,126 @@ linked_in: https://www.linkedin.com/in/bustanil-arifin
 
 ## Professional Summary [ph-user]
 
-Seasoned software engineer with 15+ years of experience in designing, developing, and maintaining mission-critical applications. Experienced in Java, Go, and modern JavaScript frameworks with a track record of leading engineering projects at major companies. 
-
-Specializes in distributed systems, microservices architecture, and software development. Demonstrated ability to mentor teams and deliver scalable solutions that drive business value. AWS certified with deep technical understanding of cloud infrastructure and deployment strategies.
-
-## Education [ph-graduation-cap]
-
-| Qualification         | Major                         | Institution                  | 
-| --------------------- | ----------------------------- | ---------------------------- | 
-| Bachelor              | Information Systems           | Binus University             |
-| Diploma III           | Informatics Engineering       | State Polytechnic of Bandung |
-
-## Certifications [ph-certificate]
-
-| Certification                                      | Provider | Year |
-| -------------------------------------------------- | -------- | ---- |
-| AWS Solution Architect Associate                   | AWS      | 2023 |
-| Oracle Certified Java Programmer (OCJP) for Java 8 | Oracle   | 2019 |
-| Sun Certified Java Programmer (SCJP) for Java 5 | Sun Microsystems   | 2009 |
+Senior software engineer with 20 years of experience across banking, payments, and merchant platforms. Focuses on backend development using Java and Go, including payment orchestration, payment service provider (PSP) integrations, and transaction processing. Experience includes core banking modernization, concurrency improvements, and batch optimization. Has led technical delivery, introduced Agile practices, and mentored developers.
 
 ## Technical Skills [ph-wrench]
 
-  Java, Javascript, Go, PHP, Scala, Spring/Spring Boot, Hibernate, Web Development, React, NextJS, Git, Maven, Linux, Docker, Kubernetes, AWS, Kafka, Redis, Microservices, Distributed systems, Agile Methodology, Scrum, TDD, BDD
+- **Backend:** Java, Go, Quarkus, Mutiny, Spring, Spring Boot, Spring Batch, Hibernate.
+- **Payments:** PSP integrations, orchestration, recurring billing, card and wallet payments, 3-D Secure (3DS).
+- **Data and messaging:** PostgreSQL, MySQL, IBM DB2, DynamoDB, Redis, Kafka, RabbitMQ.
+- **Infrastructure:** AWS, Linux, Docker, Kubernetes.
+- **Engineering:** REST APIs, gRPC, microservices, distributed systems, Git, Maven, automated testing, Agile.
+- **Additional technologies:** JavaScript, TypeScript, PHP, Scala, React, Next.js, Angular.
 
 ## Professional Experience [ph-briefcase]
 
-### Senior Software Engineer [2022 – Present] | [Grab](https://grab.com)
+### Senior Software Engineer (Freelance) [Jul 2026 – Present] | Morefin (via [Esphere](https://www.esphere.id))
 
-Grab is Southeast Asia's leading superapp. It provides everyday services like Deliveries, Mobility, Financial Services, and More.
+- Develop PSP integrations across Europe, including Paysafe, Paynetics, and iCard, for Morefin's Payment Orchestrator.
+- Implement card, Google Pay, Apple Pay, and alternative payment methods, including direct and hosted wallet checkout flows.
+- Implement Apple Pay token validation, decryption, and replay protection for direct wallet payments.
+- Develop recurring billing and subscription lifecycle management with idempotent provider callback processing.
+- Implement circuit breakers in checkout and payment routing to exclude providers under maintenance and coordinate recovery attempts.
+- Extend transaction metadata capture and propagation from the payment gateway to dashboard services.
 
-- Maintained the Grab Merchant Resource Center content management system. (http://merchant.grab.com)
-- Development and maintained the Grab Merchant Portal web app (http://merchant.grab.com/portal).
-- Integrated an external messaging service with the Grab Merchant app.
-- Developed an internal service to help engineers troubleshoot production issues.
-- Developed new features in the merchant review module.
-- Worked on various AWS infrastructure related projects.
+*Tech stack: Java, Quarkus, Mutiny, PostgreSQL, Redis, RabbitMQ, gRPC*
 
-*Tech stack: Go, gRPC, Javascript, Next.js, React, DynamoDB , MySQL, Kafka, Redis, Microservices, REST API, Docker, Kubernetes, Hystrix, Elasticsearch, Kibana, Datadog, AWS*
+### Senior Software Engineer [Aug 2022 – Jun 2026] | [Grab](https://grab.com)
 
-### Senior Software Engineer [2021 – 2022] | [DKatalis (Bank Jago)](https://www.dkatalis.com)
+- Used a large language model (LLM) to extract common topics from reviews and highlight reviews by topic.
+- Developed a review ranking system based on multiple factors.
+- Led a LINE integration project to provide a communication channel for customers in Thailand.
+- Worked on the Food Data Service, which manages GrabFood's menu item catalog.
+- Improved Merchant Portal and maintained the Hygraph-backed Merchant Resource Center. Migrated the Resource Center's hosting from Vercel to Grab's infrastructure.
 
-Bank Jago is a new Digital Banking platform in Indonesia.
+*Tech stack: Go, gRPC, DynamoDB, MySQL, Kafka, Redis, Docker, AWS*
 
-- Developed features and maintained the Joint Financing System at Bank Jago
-- Redesign the Joint Financing System repayment module for better performance and maintainability
-- Developed a BDD testing framework to write and run high-level test scenarios.
+### Senior Software Engineer [Oct 2021 – Jul 2022] | [DKatalis (Bank Jago)](https://www.dkatalis.com)
 
-*Tech stack: Java, Spring Boot, JPA/Hibernate, Kafka, MySQL, Docker, Redis, Apache Tomcat*
+- Improved repayment reliability and reduced errors through functional refactoring that lowered lock contention around shared variables.
+- Developed features and fixed bugs in Bank Jago's production Joint Financing System.
 
-### Senior Software Engineer [2018 - 2021] | [ABB (acquired by Hitachi Energy)](https://www.hitachienergy.com)
+*Tech stack: Java, Spring Boot, JPA/Hibernate, Kafka, MySQL, Docker, Redis*
 
-ABB is a global leader in digital technologies for various industries, such as power, automation, robotics, and e-mobility.
+### Senior Software Engineer [Feb 2018 – Sep 2021] | [ABB / Hitachi Energy](https://www.hitachienergy.com)
 
-Hitachi Energy is a global leader in power and energy solutions, offering products, services and consulting for solar, wind, grid and storage.
+- Developed and maintained Lumada backend modules. Built a React/Redux business rule editor that helped business users define rules.
+- Adapted Ellipse's Selenium testing framework for the product's migration from Flex to HTML5, keeping hundreds of existing end-to-end (E2E) test cases unchanged.
 
-- Developed and maintain modules in the Digital Enterprise (Lumada) platform.
-- Developed the Lumada Business Rule editor UI using React and Redux.
-- Developed and maintained the Ellipse Core Java Infrastructure.
-- Developed and maintained the Ellipse Test Automation Framework which is used to run thousands of test scenarios.
+*Tech stack: Java, Spring, Hibernate, Oracle, RabbitMQ, Selenium, React, Redux*
 
-*Tech stack: Java, Spring, Hibernate, Vaadin, Oracle, AWS, Selenium, React, Redux, React Hook, Kafka, Elasticsearch, Nodered, RabbitMQ, JBoss*
+### Independent Software Contractor [2017 – 2018]
 
-### Self Employed [2017 - 2018]
-
-- Worked as a subcontractor to build a Loan Approval System for one of the state-owned banks in Indonesia
-- Worked as a subcontractor to build and deliver the AFE (Authorization For Expenditure) System for SKK Migas Indonesia (a government special task force for upstream oil and gas business activities).
-- Worked as a contractor to develop new features in a point reward system.
-- Worked as a contractor to help build a new payment system.
+- Customized Skyworx's existing financing approval system to meet BTN Syariah's requirements through a subcontracting engagement. The system entered production at the bank.
+- Built a replacement Authorization for Expenditure (AFE) system for SKK Migas using its existing database. Implemented approval workflows, user interfaces, reports, and integrations. The system entered production.
+- Enhanced points calculation and expiration logic in a rewards system for merchants at a large mall in Jakarta.
 
 *Tech stack: Java, Spring, JPA/Hibernate, Apache Camel, JSF, MySQL, Apache Tomcat*
 
-### Research and Development Manager [2014 - 2017] | [Collega Inti Pratama](www.collega.co.id) 
+### Software Architect / Research and Development Manager [2014 – 2017] | [Collega Inti Pratama](https://www.collega.co.id)
 
-- Designed and developed a Batch Processing Application on top of Spring Batch achieving 600% performance improvement.
-- Upgraded the Core Banking System tech stack from EJB 3.0 and JBoss stack to Spring stack to make it easier to maintain and extend.
-- Designed and ported the Core Banking Frontend Application from a desktop app to a web app using Spring and ZKoss.
-- Mentored and coached Java developers on how to write clean code, refactor code, and write effective Java. 
-- Introduced the use of version control, build tools and improved the development workflow
+Joined full-time as a Software Architect to modernize a core banking product in production at Bank bjb Syariah (BJBS). Later became Research and Development Manager.
 
-*Tech stack: Java, Spring, Zkoss, SWT/Jface, IBM DB2, JBoss, Apache Tomcat, Spring Boot, JPA, Hibernate, VMWare*
+- Migrated a legacy PowerBuilder batch processing application to Java using Spring Batch, reducing batch runtime from 6 hours to 1–2 hours.
+- Migrated the core banking system from JBoss 4 to Spring and Apache Tomcat.
+- Implemented application changes and provided go-live support for core banking migrations at Bank Bengkulu, Bank Nagari, Bank Sulut, Bank Sulteng, Bank Papua, and Bank Aceh.
+- Migrated desktop cashier and security administration applications to the web, including role and permission management.
+- Developed a task management application that lets support and development teams define their own workflows and manage projects.
+- Introduced version control and build tools to improve development workflows.
+- Mentored and coached Java developers on clean code, refactoring, and effective Java practices.
 
-### Self Employed [2013 - 2014]
+*Tech stack: Java, Spring, Spring Batch, ZKoss, IBM DB2, Apache Tomcat, Git, Maven*
 
-- To pursue my passion in teaching Java to other people, I decided to quit my existing job and ran a small business specializing in Java training. I taught Java to help several IT companies and help onboard new programmers covering topics such as Basic Java, Effective Java, JSF, JPA/Hibernate.
+### Tech Lead [Jun 2013 – Jan 2014] | [Esphere (formerly XTouch)](https://www.esphere.id)
 
-### System Analyst [2012 - 2013] | [Telkomsigma](www.telkomsigma.co.id)
+- Led technical delivery of multiple payment projects.
+- Maintained Pay.ON plugins for multiple e-commerce platforms.
+- Introduced Agile practices using Scrum.
+- Provided weekend Java training to Skyworx developers.
 
-- Developed an application which implements new financial regulations which is an extension of an existing loan approval system and core financing system. The system was successfully implemented in 2 clients.
+*Tech stack: PHP, JavaScript*
+
+### Development Manager [Aug 2012 – May 2013] | Skyworx
+
+- Led a core finance project for the Bank of Tokyo-Mitsubishi UFJ (BTMU) to user acceptance testing (UAT) after four years of incomplete delivery.
+- Introduced Agile practices using Scrum, with sprint planning and smaller delivery milestones, and secured customer support for the project.
+
+### Software Developer [Oct 2011 – Jul 2012] | Pustakalebah
+
+- Developed a mobile augmented reality (AR) application for a children's educational book publisher on BlackBerry, Android, and iPhone. The application displays video within the camera view when users scan QR codes.
+
+### System Analyst [Sep 2010 – Sep 2011] | [Telkomsigma](https://www.telkomsigma.co.id)
+
+- Developed a separate accounting system supporting PSAK 55 (Financial Instruments: Recognition and Measurement) for two Core Finance customers. Implemented interest, fee amortization, and impairment calculations.
+- Implemented daily batch and on-demand processing of Core Finance transactions, posting accounting adjustments back to the platform without modifying the core system.
 
 *Tech stack: Java, Spring, Spring MVC, Microsoft SQL Server, Apache Tomcat*
 
-### Senior Java Developer [2008 - 2012] | [Esphere](https://www.esphere.id)
+### Senior Java Developer [Sep 2008 – Sep 2010] | [XTouch (later Esphere)](https://www.esphere.id)
 
-- Maintained and developed a fully functional e-wallet applications
-- Worked on a project to develop a B2B billing application.
+- Developed demo e-wallet applications to demonstrate Pay.ON integration to prospective customers.
+- Worked on assignment at Zooplus, developing composable landing pages with reusable components that read from multiple data sources.
 
-*Tech stack: Java, Spring, JPA/Hibernate, Flex, Struts 2, PostgreSQL, JMock, PHP, Apache Tomcat*
+*Tech stack: Java, Spring, JPA/Hibernate, Flex, Struts 2, PostgreSQL, PHP*
 
-### Java Developer [2006 - 2008] | [Collega Inti Pratama](www.collega.co.id)
+### Java Developer [Sep 2006 – Sep 2008] | [Collega Inti Pratama](https://www.collega.co.id)
 
-- Joined the R&D team to develop a modern core banking system using J2EE technology.
-- Developed the current account and transaction module.
-- Developed a desktop UI CRUD framework to help the team develop CRUD screen more quickly.
+- Developed the current account module for a new core banking product using Java and J2EE.
+- Contributed to reusable desktop UI components using SWT/JFace.
 
-*Tech stack: Java, EJB 3.0, JPA/Hibernate, SWT/JFace, IBM DB2, JBoss, AS/400*
+*Tech stack: Java, EJB 3.0, JPA/Hibernate, SWT/JFace, IBM DB2, JBoss*
+
+## Certifications [ph-certificate]
+
+| Certification | Provider | Year awarded |
+| ------------- | -------- | ------------ |
+| AWS Certified Solutions Architect – Associate | AWS | 2023 |
+| Oracle Certified Java Programmer (OCJP) for Java 8 | Oracle | 2019 |
+| Sun Certified Java Programmer (SCJP) for Java 5 | Sun Microsystems | 2009 |
+
+## Education [ph-graduation-cap]
+
+| Qualification | Major | Institution |
+| ------------- | ----- | ----------- |
+| Bachelor | Information Systems | Binus University |
+| Diploma III | Informatics Engineering | State Polytechnic of Bandung |

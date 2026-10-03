@@ -300,7 +300,7 @@ main {
     color: $gray-700;
 
     @include print {
-      margin-bottom: $spacer;
+      margin-bottom: $print-scale-factor * $spacer;
       color: unset;
     }
   }
@@ -314,7 +314,7 @@ main {
     margin-bottom: $spacer;
 
     @include print {
-      margin-bottom: $print-scale-factor * $spacer;
+      margin-bottom: 0.4 * $spacer;
     }
   }
 
@@ -390,6 +390,12 @@ main {
   margin-left: 0;
   padding-left: 0;
   list-style: none;
+
+  li.skill-summary {
+    @include print {
+      margin-bottom: 0.4 * $spacer;
+    }
+  }
 
   li.skill-category {
     font-weight: bold;
@@ -490,6 +496,7 @@ main {
 
   body {
     text-align: justify;
+    line-height: 1.5;
   }
 
   h2,
@@ -500,5 +507,13 @@ main {
   table,
   figure {
     page-break-inside: avoid;
+  }
+
+  .timeline-meta {
+    break-after: avoid;
+  }
+
+  main p:has(> em:only-child) {
+    break-before: avoid;
   }
 }
