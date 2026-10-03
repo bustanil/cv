@@ -80,44 +80,14 @@ Joined full-time as a Software Architect to modernize a core banking product in 
 
 *Tech stack: Java, Spring, Spring Batch, ZKoss, IBM DB2, Apache Tomcat, Git, Maven*
 
-### Tech Lead [Jun 2013 – Jan 2014] | [Esphere (formerly XTouch)](https://www.esphere.id)
+## Earlier Experience (2006–2014) [ph-briefcase]
 
-- Led technical delivery of multiple payment projects.
-- Maintained Pay.ON plugins for multiple e-commerce platforms.
-- Introduced Agile practices using Scrum.
-- Provided weekend Java training to Skyworx developers.
-
-*Tech stack: PHP, JavaScript*
-
-### Development Manager [Aug 2012 – May 2013] | Skyworx
-
-- Led a core finance project for the Bank of Tokyo-Mitsubishi UFJ (BTMU) to user acceptance testing (UAT) after four years of incomplete delivery.
-- Introduced Agile practices using Scrum, with sprint planning and smaller delivery milestones, and secured customer support for the project.
-
-### Software Developer [Oct 2011 – Jul 2012] | Pustakalebah
-
-- Developed a mobile augmented reality (AR) application for a children's educational book publisher on BlackBerry, Android, and iPhone. The application displays video within the camera view when users scan QR codes.
-
-### System Analyst [Sep 2010 – Sep 2011] | [Telkomsigma](https://www.telkomsigma.co.id)
-
-- Developed a separate accounting system supporting PSAK 55 (Financial Instruments: Recognition and Measurement) for two Core Finance customers. Implemented interest, fee amortization, and impairment calculations.
-- Implemented daily batch and on-demand processing of Core Finance transactions, posting accounting adjustments back to the platform without modifying the core system.
-
-*Tech stack: Java, Spring, Spring MVC, Microsoft SQL Server, Apache Tomcat*
-
-### Senior Java Developer [Sep 2008 – Sep 2010] | [XTouch (later Esphere)](https://www.esphere.id)
-
-- Developed demo e-wallet applications to demonstrate Pay.ON integration to prospective customers.
-- Worked on assignment at Zooplus, developing composable landing pages with reusable components that read from multiple data sources.
-
-*Tech stack: Java, Spring, JPA/Hibernate, Flex, Struts 2, PostgreSQL, PHP*
-
-### Java Developer [Sep 2006 – Sep 2008] | [Collega Inti Pratama](https://www.collega.co.id)
-
-- Developed the current account module for a new core banking product using Java and J2EE.
-- Contributed to reusable desktop UI components using SWT/JFace.
-
-*Tech stack: Java, EJB 3.0, JPA/Hibernate, SWT/JFace, IBM DB2, JBoss*
+- **Tech Lead | [Esphere (formerly XTouch)](https://www.esphere.id) | Jun 2013 – Jan 2014:** Led payment projects, maintained Pay.ON e-commerce plugins, and introduced Agile practices. Provided weekend Java training to Skyworx developers.
+- **Development Manager | Skyworx | Aug 2012 – May 2013:** Led a core finance project for the Bank of Tokyo-Mitsubishi UFJ (BTMU) to user acceptance testing (UAT) after four years of incomplete delivery. Introduced Agile practices and secured customer support.
+- **Software Developer | Pustakalebah | Oct 2011 – Jul 2012:** Developed a mobile application that displays video within the camera view after scanning QR codes from children's educational books.
+- **System Analyst | [Telkomsigma](https://www.telkomsigma.co.id) | Sep 2010 – Sep 2011:** Developed a separate PSAK 55 accounting system for two Core Finance customers. Calculated interest, fee amortization, and impairment through daily and on-demand processing, posting adjustments back without modifying the core system.
+- **Senior Java Developer | [XTouch (later Esphere)](https://www.esphere.id) | Sep 2008 – Sep 2010:** Developed Pay.ON e-wallet demos and composable Zooplus landing pages with reusable components that read from multiple data sources.
+- **Java Developer | [Collega Inti Pratama](https://www.collega.co.id) | Sep 2006 – Sep 2008:** Developed the current account module for a new core banking product and contributed to reusable SWT/JFace desktop UI components.
 
 ## Certifications [ph-certificate]
 
